@@ -27,6 +27,7 @@ sqlalchemy = "1.4.41"
 sqlalchemy-serializer = "1.4.1"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.8.13"
